@@ -1,0 +1,2 @@
+Hello, this is a new file!
+This is an appended line!
